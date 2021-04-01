@@ -1,4 +1,4 @@
-# Assignment-1-aviano-db-SQL-Queries
+# Assignment-1-aviano-db-SQL-Queries - Sonya Lennox
 #
 1. Find all vehicles
   - SELECT
