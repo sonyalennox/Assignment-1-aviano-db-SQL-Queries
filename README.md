@@ -1,7 +1,7 @@
 # Assignment-1-aviano-db-SQL-Queries
 #
-#1. Find all vehicles
-  #SELECT
+1. Find all vehicles
+  -SELECT
     #id,
     #brand,
     #model,
@@ -10,5 +10,5 @@
     #color,
     #vehicle_type_id,
     #current_location_id
-  #FROM
-    #vehicle
+  -FROM
+    vehicle
