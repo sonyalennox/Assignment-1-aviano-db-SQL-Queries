@@ -10,5 +10,5 @@
     - color,
     - vehicle_type_id,
     - current_location_id
-  -FROM
+  - FROM
     - vehicle
