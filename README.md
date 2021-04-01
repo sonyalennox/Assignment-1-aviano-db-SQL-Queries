@@ -13,7 +13,7 @@
   - FROM
     - vehicle
 2. Find all vehicles with a mileage greater than 5000
-   - SELECT
+  - SELECT
     - id,
     - brand,
     - model,
@@ -22,7 +22,7 @@
     - color,
     - vehicle_type_id,
     - current_location_id
-   - FROM
+  - FROM
     - vehicle
-   - WHERE
+  - WHERE
     - mileage > 50000
