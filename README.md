@@ -30,7 +30,7 @@
   - SELECT
     - id,
     - model,
-    - model_year,
+    - model_year
   - FROM
     - vehicle
   - WHERE
